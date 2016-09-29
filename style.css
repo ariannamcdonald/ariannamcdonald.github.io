@@ -1,0 +1,44 @@
+body{
+	font-family: "Arial";
+	color: #003366;
+	background-color: #CD5C5C;
+    font-style: italic;
+	font-style: bold;
+	
+}
+
+h1 {
+	font-size: 2.5em;
+	text-align: center;
+	color: orange;
+	background-color:#FFF8DC; 
+}
+h2 {
+	font-size: 1.5em;
+	text-align: center;
+	color: 	pink;
+}
+h3 {
+	font-size: 1.5em;
+	text-align: center;
+	color: 	pink;
+}
+table {
+	margin-left: auto;
+	margin-right: auto;
+	text-align: left;
+	border-collapse: collapse;
+	cellspacing: 0px;
+}
+
+tr {
+	border: 1px solid #ffffff;
+	text-align: center;
+	background-color:yellow; 
+}
+
+th {
+	text-align: center;
+	color: #ffffff;
+	background-color: #FFF8DC;
+}
